@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://pferdone:Goeppel3@github.com/pferdone/react-md-ts.git"
+    "url": "git+https://github.com/pferdone/react-md-ts.git"
   },
   "keywords": [
     "react-md",
